@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/cjacktwil/budget-tracker"
   },
-  "author": "",
+  "author": "Tracey Jackson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/cjacktwil/budget-tracker/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/cjacktwil/budget-tracker#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
